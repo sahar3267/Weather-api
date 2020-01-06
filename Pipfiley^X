@@ -12,7 +12,6 @@ ipykernel = "*"
 python-api-challenge = "*"
 matplotlib = "*"
 requests = "*"
-citipy = "*"
 
 [requires]
 python_version = "3.7"
